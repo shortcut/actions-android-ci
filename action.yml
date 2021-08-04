@@ -1,6 +1,6 @@
 name: 'actions-android-ci'
 description: 'Run Android build with GitHub Actions'
-author: 'xdtianyu'
+author: 'shortcut'
 
 branding:
   color: green
@@ -8,4 +8,4 @@ branding:
 
 runs:
   using: 'docker'
-  image: 'docker://shortcut/actions-android-ci'
+  image: 'Dockerfile'
