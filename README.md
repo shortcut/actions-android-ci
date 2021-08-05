@@ -1,3 +1,5 @@
+Forked to work with gradle 7 (Java 11)
+
 # Actions-Android-CI
 
 Run Android build with GitHub Actions, checkout [xdtianyu/CallerInfo](https://github.com/xdtianyu/CallerInfo/blob/master/.github/workflows/android.yml) for more usage.
