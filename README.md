@@ -1,3 +1,5 @@
+This action is no longer recommended. Please use Fastlane instead. You can find an example of that in https://github.com/shortcut/android-template
+
 Forked to work with gradle 7 (Java 11)
 
 # Actions-Android-CI
